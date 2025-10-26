@@ -1,5 +1,4 @@
-# Quantum-optics-
-# 🧠 Electromagnetically Induced Transparency (EIT) Simulation  
+#  Electromagnetically Induced Transparency (EIT) Simulation  
 ### Using the Lindblad Master Equation — *QuTiP Implementation*
 
 This project simulates **Electromagnetically Induced Transparency (EIT)** in a three-level Λ-type atomic system using the **Lindblad master equation** formalism.  
@@ -7,7 +6,7 @@ It models realistic **decay** and **dephasing** channels and visualizes both **s
 
 ---
 
-## 🔬 Features
+##  Features
 
 - Full **Λ-type three-level atom** (`|1⟩`, `|2⟩`, `|3⟩`)
 - Includes all major **decay channels**:
@@ -25,7 +24,7 @@ It models realistic **decay** and **dephasing** channels and visualizes both **s
 
 ---
 
-## 📈 Outputs
+##  Outputs
 
 - **Absorption** ∝ Im(ρ₁₃)
 - **Dispersion** ∝ Re(ρ₁₃)
@@ -38,7 +37,7 @@ Example results:
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 - Python ≥ 3.8  
 - [QuTiP](https://qutip.org)  
